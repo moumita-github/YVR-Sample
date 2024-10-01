@@ -1,6 +1,0 @@
-﻿stationId,issueTime,forecastValidFrom,forecastValidTo,windDirection,windSpeed,cloudCoverage,type
-CYVR,2022-03-30T20:40:00Z,2022-03-30T21:00:00Z,2022-03-31T09:00:00Z,300,4.1,"[{""cover"":20,""baseHeight"":600,""type"":""NC""},{""cover"":75,""baseHeight"":1200,""type"":""NC""}]",INITIAL
-CYVR,2022-03-30T20:40:00Z,2022-03-30T21:00:00Z,2022-03-31T05:00:00Z,300,4.1,"[{""cover"":45,""baseHeight"":600,""type"":""NC""},{""cover"":90,""baseHeight"":1800,""type"":""NC""}]",TEMPO
-CYVR,2022-03-30T20:40:00Z,2022-03-31T09:00:00Z,2022-03-31T18:00:00Z,290,5.1,"[{""cover"":45,""baseHeight"":450,""type"":""NC""},{""cover"":100,""baseHeight"":900,""type"":""NC""}]",FM
-CYVR,2022-03-30T20:40:00Z,2022-03-31T18:00:00Z,2022-04-01T00:00:00Z,270,5.1,"[{""cover"":20,""baseHeight"":450,""type"":""NC""},{""cover"":85,""baseHeight"":1500,""type"":""NC""}]",FM
-CYVR,2022-03-30T23:40:00Z,2022-03-31T00:00:00Z,2022-03-31T09:00:00Z,270,4.1,"[{""cover"":20,""baseHeight"":750,""type"":""NC""},{""cover"":90,""baseHeight"":1600,""type"":""NC""}]",INITIAL
